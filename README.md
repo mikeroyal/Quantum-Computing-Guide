@@ -65,3 +65,43 @@
 [Introduction to Quantum Computing on Udemy](https://www.udemy.com/course/introduction-to-quantum-computing/)
 
 [Quantum Computing & Quantum Physics for Beginners on Udemy](https://www.udemy.com/course/qc101-introduction-to-quantum-computing-quantum-physics-for-beginners/)
+
+## Tools
+
+[Quantum development kit](https://www.microsoft.com/en-us/quantum/development-kit) is an open-source development kit from Microsoft to develop quantum applications and solve optimization problems. It includes the high-level quantum programming language Q#, a set of libraries, simulators, support for Q# in environments like Visual Studio Code and Jupyter Notebooks, and interoperability with Python or .NET languages.
+
+[Quantum Katas](https://github.com/microsoft/QuantumKatas) are a collection of self-paced tutorials and programming exercises from Microsoft to help you learn quantum computing and Q# programming.
+
+[Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
+
+[Amazon Braket](https://aws.amazon.com/braket/) is a fully managed quantum computing service that helps researchers and developers explore potential applications and evaluate current quantum computing technologies. It provides a development environment to design quantum algorithms, test them on simulated quantum computers, and run them on different types of quantum computing hardware.
+
+[TensorFlow Quantum (TFQ)](https://www.tensorflow.org/quantum) is a quantum machine learning library for rapid prototyping of hybrid quantum-classical ML models. 
+
+[Mellanox Quantum™](https://www.mellanox.com/products/infiniband-switches-ic/quantum) is the world’s smartest network switch silicon, designed to enable in-network computing through the Co-Design Scalable Hierarchical Aggregation and Reduction Protocol (SHARP) technology.
+
+[Qiskit](https://qiskit.org/) is an open-source SDK for working with quantum computers at the level of circuits, algorithms, and application modules.
+
+[Terra](https://qiskit.org/terra) is the foundation that the Qiskit SDK is built on. It allows the user to write quantum circuits easily, and takes care of the constraints of real hardware.
+
+[Cirq](https://github.com/quantumlib/Cirq) is a Python library for writing, manipulating, and optimizing Noisy Intermediate Scale Quantum (NISQ) circuits and running them against quantum computers and simulators.
+
+[PyQuil](https://github.com/rigetti/pyquil) is a Python library for quantum programming using [Quil](https://arxiv.org/abs/1608.03355), the quantum instruction language developed at [Rigetti Computing](https://www.rigetti.com/). 
+
+[OpenFermion](https://github.com/quantumlib/OpenFermion) is an open source library for compiling and analyzing quantum algorithms to simulate fermionic systems, including quantum chemistry. 
+
+[QuTiP](https://github.com/qutip/qutip) is open-source software for simulating the dynamics of closed and open quantum systems. The QuTiP library uses the excellent Numpy, Scipy, and Cython packages as the numerical backend, and graphical output is provided by Matplotlib.
+
+[ProjectQ](https://github.com/ProjectQ-Framework/ProjectQ) is an open source software framework for quantum computing.
+
+[Strawberry Fields](https://strawberryfields.ai/) is a full-stack Python library for designing, simulating, and optimizing continuous variable (CV) quantum optical circuits.
+
+[PennyLane](https://pennylane.ai) is a cross-platform Python library for [differentiable programming](https://en.wikipedia.org/wiki/Differentiable_programming) of quantum computers. By training a quantum computer the same way as a neural network.
+
+[PySyft](https://github.com/OpenMined/PySyft) is a Python library for secure and private Deep Learning. PySyft decouples private data from model training, using [Federated Learning](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html), [Differential Privacy](https://www.microsoft.com/en-us/ai/ai-lab-differential-privacy), and Encrypted Computation (like [Multi-Party Computation (MPC)](https://multiparty.org) and [Homomorphic Encryption (HE)](https://www.microsoft.com/en-us/research/project/homomorphic-encryption/) within the main Deep Learning frameworks like [PyTorch](https://pytorch.org/) and [TensorFlow](https://www.tensorflow.org/).
+
+[BoTorch](https://botorch.org) is a library for Bayesian Optimization built on PyTorch.
+
+[PyTorch Geometric (PyG)](https://github.com/rusty1s/pytorch_geometric) is a geometric deep learning extension library for [PyTorch](https://pytorch.org/).
+
+[Skorch](https://github.com/skorch-dev/skorch) is a scikit-learn compatible neural network library that wraps PyTorch.
