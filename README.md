@@ -6,19 +6,20 @@
 
 #### A guide covering  Quantum Computing  including the applications, libraries and tools that will make you a better and more efficient developer in Quantum Computing.
 
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+
 <img src="https://user-images.githubusercontent.com/45159366/105409494-611f1f00-5be5-11eb-963f-e3c5f5d805f6.jpeg">
  
- **A look inside of the IBM Q System One machine. Source: [IBM Research Quantum Experience](https://www.research.ibm.com/quantum-computing/system-one/), 2020.**
+ **A look inside of the IBM Q System One machine. Source: [IBM Research Quantum Experience](https://www.research.ibm.com/quantum-computing/system-one/)**
  
 
  
  <img src="https://user-images.githubusercontent.com/45159366/105409495-62504c00-5be5-11eb-800c-7f24ff83bd65.jpeg">
  
- **IBM Q System One machine Overview. Source: [IBM Research Quantum Experience](https://www.research.ibm.com/quantum-computing/system-one/), 2020.**
+ **IBM Q System One machine Overview. Source: [IBM Research Quantum Experience](https://www.research.ibm.com/quantum-computing/system-one/)**
 
 
-
-## Resources
+# Quantum Computing Learning Resources
 
 [Quantum computing](https://docs.microsoft.com/en-us/quantum/overview/understanding-quantum-computing) is the use of principles in quantum mechanics such as [superposition](https://en.wikipedia.org/wiki/Quantum_superposition) and [entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement) to process information. Quantum computing will play a big role in the innovation of artificial intelligence and machine learning.
 
@@ -78,7 +79,7 @@
 
 [Quantum Computing & Quantum Physics for Beginners on Udemy](https://www.udemy.com/course/qc101-introduction-to-quantum-computing-quantum-physics-for-beginners/)
 
-## Tools
+# Quantum Computing Tools and Frameworks
 
 [Quantum development kit](https://www.microsoft.com/en-us/quantum/development-kit) is an open-source development kit from Microsoft to develop quantum applications and solve optimization problems. It includes the high-level quantum programming language Q#, a set of libraries, simulators, support for Q# in environments like Visual Studio Code and Jupyter Notebooks, and interoperability with Python or .NET languages.
 
@@ -117,3 +118,12 @@
 [PyTorch Geometric (PyG)](https://github.com/rusty1s/pytorch_geometric) is a geometric deep learning extension library for [PyTorch](https://pytorch.org/).
 
 [Skorch](https://github.com/skorch-dev/skorch) is a scikit-learn compatible neural network library that wraps PyTorch.
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Quantum-Computing-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
