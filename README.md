@@ -119,6 +119,8 @@
 
 [Skorch](https://github.com/skorch-dev/skorch) is a scikit-learn compatible neural network library that wraps PyTorch.
 
+[Explore Quantum Computing](https://kandi.openweaver.com/explore/quantum-computing) - Discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi
+
 ## Contribute
 
 - [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Quantum-Computing-Guide/pulls).
