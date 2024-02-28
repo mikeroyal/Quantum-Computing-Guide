@@ -122,6 +122,8 @@
 
 [Skorch](https://github.com/skorch-dev/skorch) is a scikit-learn compatible neural network library that wraps PyTorch.
 
+[Quriust](https://github.com/ScipioneParmigiano/quriust) is a blazing fast Rust library for simulating quantum circuits. Only for quriust ones.
+
 ## Contribute
 
 - [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Quantum-Computing-Guide/pulls).
